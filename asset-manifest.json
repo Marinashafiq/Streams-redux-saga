@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/streams-redux-saga/static/js/main.4db8f127.chunk.js",
+    "main.js.map": "/streams-redux-saga/static/js/main.4db8f127.chunk.js.map",
+    "runtime~main.js": "/streams-redux-saga/static/js/runtime~main.ced661d7.js",
+    "runtime~main.js.map": "/streams-redux-saga/static/js/runtime~main.ced661d7.js.map",
+    "static/js/2.25ef9a5a.chunk.js": "/streams-redux-saga/static/js/2.25ef9a5a.chunk.js",
+    "static/js/2.25ef9a5a.chunk.js.map": "/streams-redux-saga/static/js/2.25ef9a5a.chunk.js.map",
+    "static/js/3.960be541.chunk.js": "/streams-redux-saga/static/js/3.960be541.chunk.js",
+    "static/js/3.960be541.chunk.js.map": "/streams-redux-saga/static/js/3.960be541.chunk.js.map",
+    "static/js/4.1fa13f65.chunk.js": "/streams-redux-saga/static/js/4.1fa13f65.chunk.js",
+    "static/js/4.1fa13f65.chunk.js.map": "/streams-redux-saga/static/js/4.1fa13f65.chunk.js.map",
+    "index.html": "/streams-redux-saga/index.html",
+    "precache-manifest.db51e76abec0492ade273419bd6efef0.js": "/streams-redux-saga/precache-manifest.db51e76abec0492ade273419bd6efef0.js",
+    "service-worker.js": "/streams-redux-saga/service-worker.js"
+  }
+}
